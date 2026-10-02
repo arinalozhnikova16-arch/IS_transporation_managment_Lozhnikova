@@ -1,0 +1,7 @@
+D:\Programming\CourseProjectApp\System\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Programming\CourseProjectApp\System\obj\Debug\net8.0-windows\App.g.cs
+D:\Programming\CourseProjectApp\System\obj\Debug\net8.0-windows\System_MarkupCompile.cache
+D:\Programming\CourseProjectApp\System\obj\Debug\net8.0-windows\System_MarkupCompile.lref
+D:\Programming\CourseProjectApp\System\obj\Debug\net8.0-windows\System.dll
+D:\Programming\CourseProjectApp\System\obj\Debug\net8.0-windows\refint\System.dll
+D:\Programming\CourseProjectApp\System\obj\Debug\net8.0-windows\System.pdb

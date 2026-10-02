@@ -1,0 +1,112 @@
+D:\Programming\CourseProjectApp\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.exe
+D:\Programming\CourseProjectApp\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.deps.json
+D:\Programming\CourseProjectApp\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.runtimeconfig.json
+D:\Programming\CourseProjectApp\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.dll
+D:\Programming\CourseProjectApp\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.pdb
+D:\Programming\CourseProjectApp\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CourseProjectApp\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.AssemblyInfoInputs.cache
+D:\Programming\CourseProjectApp\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.AssemblyInfo.cs
+D:\Programming\CourseProjectApp\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.csproj.CoreCompileInputs.cache
+D:\Programming\CourseProjectApp\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.dll
+D:\Programming\CourseProjectApp\CourseProjectApp\obj\Debug\net8.0\refint\CourseProjectApp.dll
+D:\Programming\CourseProjectApp\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.pdb
+D:\Programming\CourseProjectApp\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.genruntimeconfig.cache
+D:\Programming\CourseProjectApp\CourseProjectApp\obj\Debug\net8.0\ref\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v8 — копия\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.exe
+D:\Programming\CourseProjectApp v8 — копия\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.deps.json
+D:\Programming\CourseProjectApp v8 — копия\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.runtimeconfig.json
+D:\Programming\CourseProjectApp v8 — копия\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v8 — копия\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.pdb
+D:\Programming\CourseProjectApp v8 — копия\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CourseProjectApp v8 — копия\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.AssemblyInfoInputs.cache
+D:\Programming\CourseProjectApp v8 — копия\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.AssemblyInfo.cs
+D:\Programming\CourseProjectApp v8 — копия\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.csproj.CoreCompileInputs.cache
+D:\Programming\CourseProjectApp v8 — копия\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v8 — копия\CourseProjectApp\obj\Debug\net8.0\refint\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v8 — копия\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.pdb
+D:\Programming\CourseProjectApp v8 — копия\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.genruntimeconfig.cache
+D:\Programming\CourseProjectApp v8 — копия\CourseProjectApp\obj\Debug\net8.0\ref\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v12\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.exe
+D:\Programming\CourseProjectApp v12\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.deps.json
+D:\Programming\CourseProjectApp v12\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.runtimeconfig.json
+D:\Programming\CourseProjectApp v12\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v12\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.pdb
+D:\Programming\CourseProjectApp v12\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CourseProjectApp v12\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.AssemblyInfoInputs.cache
+D:\Programming\CourseProjectApp v12\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.AssemblyInfo.cs
+D:\Programming\CourseProjectApp v12\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.csproj.CoreCompileInputs.cache
+D:\Programming\CourseProjectApp v12\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v12\CourseProjectApp\obj\Debug\net8.0\refint\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v12\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.pdb
+D:\Programming\CourseProjectApp v12\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.genruntimeconfig.cache
+D:\Programming\CourseProjectApp v12\CourseProjectApp\obj\Debug\net8.0\ref\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v15 color\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.exe
+D:\Programming\CourseProjectApp v15 color\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.deps.json
+D:\Programming\CourseProjectApp v15 color\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.runtimeconfig.json
+D:\Programming\CourseProjectApp v15 color\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v15 color\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.pdb
+D:\Programming\CourseProjectApp v15 color\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CourseProjectApp v15 color\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.AssemblyInfoInputs.cache
+D:\Programming\CourseProjectApp v15 color\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.AssemblyInfo.cs
+D:\Programming\CourseProjectApp v15 color\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.csproj.CoreCompileInputs.cache
+D:\Programming\CourseProjectApp v15 color\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v15 color\CourseProjectApp\obj\Debug\net8.0\refint\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v15 color\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.pdb
+D:\Programming\CourseProjectApp v15 color\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.genruntimeconfig.cache
+D:\Programming\CourseProjectApp v15 color\CourseProjectApp\obj\Debug\net8.0\ref\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v19\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.exe
+D:\Programming\CourseProjectApp v19\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.deps.json
+D:\Programming\CourseProjectApp v19\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.runtimeconfig.json
+D:\Programming\CourseProjectApp v19\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v19\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.pdb
+D:\Programming\CourseProjectApp v19\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CourseProjectApp v19\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.AssemblyInfoInputs.cache
+D:\Programming\CourseProjectApp v19\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.AssemblyInfo.cs
+D:\Programming\CourseProjectApp v19\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.csproj.CoreCompileInputs.cache
+D:\Programming\CourseProjectApp v19\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v19\CourseProjectApp\obj\Debug\net8.0\refint\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v19\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.pdb
+D:\Programming\CourseProjectApp v19\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.genruntimeconfig.cache
+D:\Programming\CourseProjectApp v19\CourseProjectApp\obj\Debug\net8.0\ref\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v21\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.exe
+D:\Programming\CourseProjectApp v21\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.deps.json
+D:\Programming\CourseProjectApp v21\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.runtimeconfig.json
+D:\Programming\CourseProjectApp v21\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v21\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.pdb
+D:\Programming\CourseProjectApp v21\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CourseProjectApp v21\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.AssemblyInfoInputs.cache
+D:\Programming\CourseProjectApp v21\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.AssemblyInfo.cs
+D:\Programming\CourseProjectApp v21\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.csproj.CoreCompileInputs.cache
+D:\Programming\CourseProjectApp v21\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v21\CourseProjectApp\obj\Debug\net8.0\refint\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v21\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.pdb
+D:\Programming\CourseProjectApp v21\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.genruntimeconfig.cache
+D:\Programming\CourseProjectApp v21\CourseProjectApp\obj\Debug\net8.0\ref\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v26\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.exe
+D:\Programming\CourseProjectApp v26\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.deps.json
+D:\Programming\CourseProjectApp v26\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.runtimeconfig.json
+D:\Programming\CourseProjectApp v26\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v26\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.pdb
+D:\Programming\CourseProjectApp v26\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CourseProjectApp v26\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.AssemblyInfoInputs.cache
+D:\Programming\CourseProjectApp v26\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.AssemblyInfo.cs
+D:\Programming\CourseProjectApp v26\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.csproj.CoreCompileInputs.cache
+D:\Programming\CourseProjectApp v26\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v26\CourseProjectApp\obj\Debug\net8.0\refint\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v26\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.pdb
+D:\Programming\CourseProjectApp v26\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.genruntimeconfig.cache
+D:\Programming\CourseProjectApp v26\CourseProjectApp\obj\Debug\net8.0\ref\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v33\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.exe
+D:\Programming\CourseProjectApp v33\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.deps.json
+D:\Programming\CourseProjectApp v33\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.runtimeconfig.json
+D:\Programming\CourseProjectApp v33\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v33\CourseProjectApp\bin\Debug\net8.0\CourseProjectApp.pdb
+D:\Programming\CourseProjectApp v33\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CourseProjectApp v33\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.AssemblyInfoInputs.cache
+D:\Programming\CourseProjectApp v33\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.AssemblyInfo.cs
+D:\Programming\CourseProjectApp v33\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.csproj.CoreCompileInputs.cache
+D:\Programming\CourseProjectApp v33\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v33\CourseProjectApp\obj\Debug\net8.0\refint\CourseProjectApp.dll
+D:\Programming\CourseProjectApp v33\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.pdb
+D:\Programming\CourseProjectApp v33\CourseProjectApp\obj\Debug\net8.0\CourseProjectApp.genruntimeconfig.cache
+D:\Programming\CourseProjectApp v33\CourseProjectApp\obj\Debug\net8.0\ref\CourseProjectApp.dll

@@ -17,7 +17,7 @@
 ## Архитектура:
 Разделила проект на библиотеку классов (модели и репозиторий) и UI. Использовала паттерн Repository и ObservableCollection, чтобы интерфейс обновлялся автоматически при изменении данных в БД
 
-## Примеры работа приложения
+## Примеры работы приложения
 ### Пользовательские формы
 <img width="735" height="651" alt="image" src="https://github.com/user-attachments/assets/08e3ebc7-265f-483d-95a8-31fed33e1c7d" />
 <img width="732" height="643" alt="image" src="https://github.com/user-attachments/assets/759e4639-201e-4903-ae94-a66d054d32cb" />
